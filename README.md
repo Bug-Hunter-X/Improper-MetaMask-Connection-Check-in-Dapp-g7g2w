@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dapps: an incomplete check for MetaMask wallet connection. The `bug.js` file shows the flawed code, while `bugSolution.js` provides a corrected version that includes robust account and connection status verification.  This improved version handles various scenarios and prevents unexpected behavior.
